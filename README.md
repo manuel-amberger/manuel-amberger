@@ -1,4 +1,4 @@
-## Hi there 👋
+  ## Hi there 👋
 
 <!--
 **manuel-amberger/manuel-amberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Tech Stack
-[![HTML, CSS, JS](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql&perline=3)](https://skillicons.dev)
+[![HTML, CSS, JS](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql)](https://skillicons.dev)
