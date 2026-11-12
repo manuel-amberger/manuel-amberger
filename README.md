@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Tech Stack
-[![HTML, CSS, JS](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql,kali)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql,kali)](https://skillicons.dev)
+
+## Most Used Languages
+[![Languages](https://github-stats-extended.vercel.app/api/top-langs?username=manuel-amberger&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=manuel-amberger&layout=compact&hide_title=true&langs_count=4&theme=dark_github)
