@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Tech Stack
-[![HTML, CSS, JS](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql)](https://skillicons.dev)
+[![HTML, CSS, JS](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql,kali)](https://skillicons.dev)
