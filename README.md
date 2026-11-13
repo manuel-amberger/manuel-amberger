@@ -1,5 +1,3 @@
-  # Hi, I´m Manuel 👋
-
 <!--
 **manuel-amberger/manuel-amberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ![Hi, I´m Manuel Amberger](img/Name_ASCII.png)
 
 ## Tech Stack
 [![Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql,kali)](https://skillicons.dev)
