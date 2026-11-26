@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # ![Hi, I´m Manuel Amberger](img/Name_ASCII.png)
 
-[![whoami Bash Biografie](img/whoami_Bash_Carbon.sv)](img/whoami_Bash_Carbon.sv)
+[![whoami Bash Biografie](img/whoami_Bash_Carbon.svg)](img/whoami_Bash_Carbon.svg)
 
 ## Tech Stack
 [![Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql,kali)](https://skillicons.dev)
