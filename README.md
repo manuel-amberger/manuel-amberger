@@ -23,7 +23,15 @@ Here are some ideas to get you started:
 - **HTL Krems** – Information Technology (3rd Year)
 
 ## Tech Stack
+
 [![Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql,kali)](https://skillicons.dev)
 
-## Most Used Languages
+## GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuel-amberger/manuel-amberger/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuel-amberger/manuel-amberger/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/manuel-amberger/manuel-amberger/output/github-snake.svg" />
+</picture>
+
 [![Languages](https://github-stats-extended.vercel.app/api/top-langs?username=manuel-amberger&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=manuel-amberger&layout=compact&hide_title=true&langs_count=4&theme=dark_github)
