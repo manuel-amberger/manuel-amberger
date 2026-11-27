@@ -28,28 +28,15 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/manuel-amberger">
-          <img
-            src="https://github-stats-extended.vercel.app/api?username=manuel-amberger&custom_title=General%20Stats&include_all_commits=true&theme=dark_github"
-            alt="GitHub Stats Card"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/manuel-amberger">
-          <img
-            src="https://github-stats-extended.vercel.app/api/top-langs?username=manuel-amberger&layout=compact&langs_count=4&theme=dark_github"
-            alt="Most Used Languages Card"
-          />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<img
+  src="https://github-stats-extended.vercel.app/api?username=manuel-amberger&custom_title=General%20Stats&include_all_commits=true&theme=dark_github"
+  alt="GitHub Stats Card"
+/>
+<a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=manuel-amberger&layout=compact&langs_count=4&theme=dark_github"
+  alt="Most Used Languages Card"
+/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuel-amberger/manuel-amberger/output/github-snake-dark.svg" />
