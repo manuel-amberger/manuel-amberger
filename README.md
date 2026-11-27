@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # ![Hi, I´m Manuel Amberger](img/Name_ASCII.png)
 
-[![whoami Bash Biografie](img/whoami_Bash_Carbon.svg)](img/whoami_Bash_Carbon.svg)
+[![whoami Bash Biografie Card](img/whoami_Bash_Carbon.svg)](img/whoami_Bash_Carbon.svg)
 
 ## Achivements
 
@@ -24,14 +24,35 @@ Here are some ideas to get you started:
 
 ## Tech Stack
 
-[![Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql,kali)](https://skillicons.dev)
+[![Stack Card](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,php,cs,py,bash,git,mysql,kali)](https://skillicons.dev)
 
-## Most Used Languages
+## GitHub Stats
 
-[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=dark_github)
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/manuel-amberger">
+          <img
+            src="https://github-stats-extended.vercel.app/api?username=manuel-amberger&custom_title=General%20Stats&include_all_commits=true&theme=dark_github"
+            alt="GitHub Stats Card"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/manuel-amberger">
+          <img
+            src="https://github-stats-extended.vercel.app/api/top-langs?username=manuel-amberger&layout=compact&langs_count=4&theme=dark_github"
+            alt="Most Used Languages Card"
+          />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuel-amberger/manuel-amberger/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manuel-amberger/manuel-amberger/output/github-snake.svg" />
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/manuel-amberger/manuel-amberger/output/github-snake.svg" />
+  <img alt="GitHub Snake Card" src="https://raw.githubusercontent.com/manuel-amberger/manuel-amberger/output/github-snake.svg" />
 </picture>
