@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Most Used Languages
 
-[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=manuel-amberger&layout=compact&hide_title=true&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=manuel-amberger&layout=compact&hide_title=true&langs_count=4&theme=dark_github)
+[![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=4&theme=dark_github)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manuel-amberger/manuel-amberger/output/github-snake-dark.svg" />
