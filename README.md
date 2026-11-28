@@ -4,7 +4,7 @@
 
 ## Achivements
 
-- **2nd Place** – Cloudflight Coding Contest (CCC)
+- **2nd Place** – Cloudflight Coding Contest (CCC - School)
 - **HTL Krems** – Information Technology (3rd Year)
 
 ## Tech Stack
